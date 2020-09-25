@@ -1,0 +1,143 @@
+[
+    {
+        "id": 0,
+        "destination": "Cox’s  Bazar",
+        "description": "Cox’s Bazar is a town on the southeast coast of Bangladesh. It’s known for its very long, sandy beachfront, stretching from Sea Beach in the north to Kolatoli Beach in the south. Aggameda Khyang monastery is home to bronze statues and centuries-old Buddhist manuscripts. South of town, the tropical rainforest of Himchari National Park has waterfalls and many birds. North, sea turtles breed on nearby Sonadia Island.",
+        "fullImg": "https://raw.githubusercontent.com/iftekkhar/fake-data-travel-guru/master/cox-bazar.png",
+        "hotels": [
+            {
+                "hotelId": 0,
+                "name": "Seagull Hotel",
+                "guest": "3",
+                "bed": "2",
+                "bedroom": "4",
+                "bath": "1",
+                "cancellation": "Available",
+                "price": 95,
+                "reviews": "20",
+                "rating": "4",
+                "img": "https://dimg04.c-ctrip.com/images/220u0u000000jdsjnCAC7_R_800_525.jpg"
+            },
+            {
+                "hotelId": 1,
+                "name": "Ocean Paradise",
+                "guest": "4",
+                "bed": "2",
+                "bedroom": "4",
+                "bath": "1",
+                "cancellation": "Not Available",
+                "price": 55,
+                "reviews": "40",
+                "rating": "4.5",
+                "img": "https://media-cdn.tripadvisor.com/media/photo-s/05/c2/9a/46/ocean-paradise-hotel.jpg"
+            },
+            {
+                "hotelId": 2,
+                "name": "Sayeman Beach Resort",
+                "guest": "4",
+                "bed": "2",
+                "bedroom": "4",
+                "bath": "2",
+                "cancellation": " Available",
+                "price": 40,
+                "reviews": "80",
+                "rating": "4.2",
+                "img": "https://media-cdn.tripadvisor.com/media/photo-s/0d/86/49/c3/sayeman-beach-resort.jpg"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "destination": "Sreemangal",
+        "description": "Sreemangal is also well known as the tea capital of Bangladesh and for miles around if you look then you can find green carpet of tea gardens on the hill slopes. There are total 163 tea gardens are exists in Bangladesh and these are at different places of the country Bangladesh.",
+        "fullImg": "https://raw.githubusercontent.com/iftekkhar/fake-data-travel-guru/master/Sreemongol.png",
+        "hotels": [
+            {
+                "hotelId": 0,
+                "name": "Grand Sultan Tea Resort & Golf",
+                "guest": "3",
+                "bed": "2",
+                "bedroom": "4",
+                "bath": "1",
+                "cancellation": "Available",
+                "price": 95,
+                "reviews": "20",
+                "rating": "4",
+                "img": "https://www.grandsultanresort.com/images/gs_front_fb.jpg"
+            },
+            {
+                "hotelId": 1,
+                "name": "Balishira Resort",
+                "guest": "4",
+                "bed": "2",
+                "bedroom": "4",
+                "bath": "1",
+                "cancellation": "Not Available",
+                "price": 55,
+                "reviews": "40",
+                "rating": "4.5",
+                "img": "https://cf.bstatic.com/images/hotel/max1024x768/221/221447028.jpg"
+            },
+            {
+                "hotelId": 2,
+                "name": "The Mayfair",
+                "guest": "4",
+                "bed": "2",
+                "bedroom": "4",
+                "bath": "2",
+                "cancellation": " Available",
+                "price": 40,
+                "reviews": "80",
+                "rating": "4.2",
+                "img": "https://media-cdn.tripadvisor.com/media/photo-s/0f/78/f4/30/hotel-mohsin-plaza.jpg"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "destination": "Sundarbans",
+        "description": "Sundarban is the biggest mangrove forest in the world...the beauty of this Forrest is 10 out of 10...some people call it the asian Amazon..here you can find Royal Bengal Tiger(specially if you were lucky) and common uncommon natural beauties...you can note this forrest name on your top list .",
+        "fullImg": "https://raw.githubusercontent.com/iftekkhar/fake-data-travel-guru/master/sundorbon.png",
+        "hotels": [
+            {
+                "hotelId": 0,
+                "name": "Shundarban Gateway Resort",
+                "guest": "3",
+                "bed": "2",
+                "bedroom": "4",
+                "bath": "1",
+                "cancellation": "Available",
+                "price": 95,
+                "reviews": "20",
+                "rating": "4",
+                "img": "https://dimg04.c-ctrip.com/images/220u0u000000jdsjnCAC7_R_800_525.jpg"
+            },
+            {
+                "hotelId": 1,
+                "name": "Solitary Nook",
+                "guest": "4",
+                "bed": "2",
+                "bedroom": "4",
+                "bath": "1",
+                "cancellation": "Not Available",
+                "price": 55,
+                "reviews": "40",
+                "rating": "4.5",
+                "img": "https://media-cdn.tripadvisor.com/media/photo-s/05/c2/9a/46/ocean-paradise-hotel.jpg"
+            },
+            {
+                "hotelId": 2,
+                "name": "Spot On",
+                "guest": "4",
+                "bed": "2",
+                "bedroom": "4",
+                "bath": "2",
+                "cancellation": " Available",
+                "price": 40,
+                "reviews": "80",
+                "rating": "4.2",
+                "img": "https://media-cdn.tripadvisor.com/media/photo-s/0d/86/49/c3/sayeman-beach-resort.jpg"
+            }
+        ]
+    }
+]

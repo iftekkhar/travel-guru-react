@@ -1,0 +1,19 @@
+.meta {
+  position: relative;
+}
+.meta h2 {
+  position: absolute;
+  bottom: 20px;
+  left: 10px;
+}
+.meta img {
+  border-radius: 20px;
+  box-shadow: 0 8px 20px #2b2b2bc7;
+  box-shadow: 0 0 -50px -50px #fff;
+  -moz-box-shadow: 0 0 -50px -50px #fff;
+  -webkit-box-shadow: 0 0 -50px -50px #fff;
+}
+.items img:hover {
+  border: 4px solid #FBBC04;
+  box-sizing: border-box;
+}

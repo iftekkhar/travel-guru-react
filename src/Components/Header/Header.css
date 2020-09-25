@@ -1,0 +1,22 @@
+.header {
+  position: absolute;
+  background: #00000061;
+}
+.header-section {
+  align-items: center;
+  justify-content: space-between;
+}
+.header img {
+  width: 30%;
+  filter: invert(1);
+}
+.nav-links ul {
+  display: flex;
+  list-style: none;
+  justify-content: space-between;
+}
+.nav-links ul a {
+  color: #fff;
+  text-decoration: none;
+  text-transform: uppercase;
+}

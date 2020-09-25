@@ -1,0 +1,25 @@
+.booking-section {
+  height: 100vh;
+}
+.booking {
+  width: 100%;
+  background-image: url("../../img/cox-full.png");
+  background-size: cover;
+  box-shadow: inset 0 0 0 20000px #000000a6;
+}
+.booking-form-container {
+  padding: 24px;
+}
+.booking-form-date {
+  display: flex;
+  justify-content: space-between;
+}
+.MuiInputBase-root {
+  font-size: 16px !important;
+  font-family: Montserrat !important;
+  font-weight: bold !important;
+  line-height: 20 !important;
+}
+.MuiOutlinedInput-input {
+  background: #f2f2f2 !important;
+}

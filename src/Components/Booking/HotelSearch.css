@@ -1,0 +1,37 @@
+.hotel-Search{
+height:100vh;
+}
+
+.hotel-img img{
+    width: 100%;
+}
+.hotels {
+    /* max-height: 150px; */
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+
+.hotel-details p{
+    font-size: 14px;
+    color: #6A6A6A;
+    font-weight: 400;
+   
+}
+.hotel-details{
+    padding-left: 10px;
+   
+}
+.hotel-name{
+    
+    font-weight: bold;
+    font-family: Montserrat;
+    color:#000;
+    margin-bottom: 5px;
+}
+.hotel-price-review {
+    margin-top: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
